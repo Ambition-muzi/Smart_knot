@@ -239,3 +239,28 @@ This project is licensed under Apache v2 (software, electronics, documentation) 
     See the License for the specific language governing permissions and
     limitations under the License.
 
+https://www.youtube.com/watch?v=Q76dMggUH1M
+88,609次观看2022年6月21日SmartKnob的工作原理是什么？我是如何建造它的？让我们看看里面看看吧！感谢 JLCPCB 赞助此视频的一部分！    https://jlcpcb.com/DYE5 块 1-4 层 PCB 2 美元，PCBA 0 美元起 如果您还没有观看 SmartKnob 演示卷轴，请在此处查看：https://www.youtube.com/watch?v=ip641...
+
+非常感谢所有在 GitHub 上赞助我的人：https://github.com/sponsors/scottbez1
+
+跟随：GitHub 项目：https://github.com/scottbez1/smartknob/
+推特：https://twitter.com/scottbez1
+
+提及和其他很酷的事情： • 圆形 LCD (GC9A01)：https://amzn.to/3QaLR1i（在速卖通上可能更便宜，但运输速度较慢 -https://www.aliexpress.com/item/10050...) • 磁性观察片：https://amzn.to/3MARQcw
+• 磁传感器（MT6701）：https://lcsc.com/product-detail/Angle...
+• CA 胶水：https://amzn.to/3mxsEJC
+• 凝胶助焊剂 (NC191)：https://amzn.to/3MGDSr5-  强烈推荐 - 您会在整个视频中看到这一点（8:50, 9:14,9:48) 因为它改变了我焊接表面贴装元件的方式 • iFixit 螺丝刀套装：https://amzn.to/3zsabG4- 在这个视频中做了一些小客串，但也强烈推荐！• InteractiveHtmlBom：https://github.com/openscopeproject/I...- KiCad 的很棒的免费插件（一些链接是附属链接，它可以免费帮助支持我的频道！）所有其他部分都可以在项目 GitHub 页面上链接的材料清单 (BOM) 文件中找到。章节：
+0:00介绍
+0:44先看看里面
+1:36你不能买这个马达:(
+2:12虚拟棘爪和触觉理论
+3:39感应旋转（磁性）
+5:26赞助商寄语
+5:58电子与组装
+7:52奇怪的弯曲，但还可以
+9:13显示器、光传感器
+10:38安装选项和结论
+
+
+
